@@ -58,17 +58,11 @@
 
 一键修复各种系统原生bug的仓库：
 
-https://github.com/spiritLHLS/one-click-installation-script
+https://github.com/xk320/one-click-installation-script.git
 
 如若还有系统bug请到上面仓库的issues反馈，脚本原生BUG该仓库issues反馈
 
-## 更新
 
-2025.03.29
-
-- 修复hits徽章访问量统计，使用 https://github.com/oneclickvirt/hitscounter
-
-历史更新日志：[跳转](https://github.com/spiritLHLS/ecs/blob/main/CHANGELOG.md)
 
 ## 融合怪命令
 
